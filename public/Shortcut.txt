@@ -1,0 +1,10 @@
+sfc --> Stateful Components
+rfce --> 
+
+
+ES7 React JS Snippet Website
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+
+
